@@ -1,0 +1,22 @@
+city:武汉
+
+date:01-28		day:中雪(1°C )		night:雨夹雪( -2°C)
+
+date:01-29		day:阴(1°C )		night:中雪( -2°C)
+
+date:01-30		day:中雪(3°C )		night:雨夹雪( -1°C)
+
+date:01-31		day:雨夹雪(2°C )		night:小雪( -3°C)
+
+date:02-01		day:雨夹雪(2°C )		night:雨夹雪( 0°C)
+
+date:02-02		day:雨夹雪(5°C )		night:雨夹雪( -1°C)
+
+date:02-03		day:零散阵雨(4°C )		night:阵雨( 2°C)
+
+date:02-04		day:局部多云(9°C )		night:局部多云( 2°C)
+
+date:02-05		day:阴天(9°C )		night:阴天( 0°C)
+
+date:02-06		day:少云(8°C )		night:局部多云( -1°C)
+
