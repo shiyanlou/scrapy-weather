@@ -14,11 +14,6 @@ class WeatherItem(scrapy.Item):
     # demo 1
     city = scrapy.Field()
     date = scrapy.Field()
-    day = scrapy.Field()
     dayDesc = scrapy.Field()
     dayTemp = scrapy.Field()
-    night = scrapy.Field()
-    nightDesc = scrapy.Field()
-    nightTemp = scrapy.Field()
-    tip = scrapy.Field()
     pass
