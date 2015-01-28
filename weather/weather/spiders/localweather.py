@@ -16,4 +16,3 @@ class WeatherSpider(scrapy.Spider):
         item['dayDesc'] = tenDay.css('img.icons0_wt::attr(title)').extract()
         item['dayTemp'] = tenDay.css('p.wt_fc_c0_i_temp::text').extract()
         return item
-
